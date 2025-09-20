@@ -1,10 +1,10 @@
 {"products":[
   {
     "id": 1,
-    "product_name": "Wireless Headphones",
+    "product_name": "Wireless Headphones 12",
     "category": "Electronics",
     "brand": "Sony",
-    "price": 120.99,
+    "price": 100.99,
     "image": "https://i.ibb.co.com/Ttw7xnw/22.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "product_name": "Sports Shoes",
     "category": "Footwear",
     "brand": "Nike",
-    "price": 89.50,
+    "price": 120.50,
     "image": "https://i.ibb.co.com/FJXdWL3/4.jpg"
   },
   {
